@@ -6,4 +6,3 @@ def triangle(x: int, y: int, z: int) -> str:
     else:
         return "Scalene triangle"
     
-print(triangle(200,200,200))
