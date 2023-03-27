@@ -4,4 +4,3 @@ def circle(radius: float) -> float:
     circumference = 2 * pi * radius
     return f"Area: {area:.2f}, Circumference: {circumference:.2f}"
     
-print(circle(5.0))
